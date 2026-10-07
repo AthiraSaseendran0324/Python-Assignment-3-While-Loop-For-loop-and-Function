@@ -14,9 +14,6 @@ This repository contains my Python Assignment , which focuses on **while loops, 
 - For Loop
 - range() Function
 - Functions
-- Parameters and Arguments
-- Return Statement
-- User Input
 
 ##  Assignment Tasks
 
@@ -57,8 +54,6 @@ The program:
 
 - Python
 - Google Colab
-- Jupyter Notebook
-
 
 ## By
 
