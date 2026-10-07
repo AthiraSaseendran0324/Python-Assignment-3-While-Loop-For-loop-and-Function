@@ -1,5 +1,7 @@
 # Python-Assignment-3-While-Loop-For-loop-and-Function
 
+Gooogle Colab LINK - https://colab.research.google.com/drive/1NQjxg4CHpVb3iivWXuMUd5Bz2ucxDQJH?usp=sharing
+
 ## Overview
 
 This repository contains my Python Assignment , which focuses on **while loops, for loops, control statements, the range() function, and functions**.
